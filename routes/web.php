@@ -9,4 +9,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/test', [MailController::class, 'sendWelcomeEmail']);
+//ddddd
+
+// Route::get('/test', [MailController::class, 'sendWelcomeEmail']);
